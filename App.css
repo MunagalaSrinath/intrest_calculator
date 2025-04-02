@@ -1,0 +1,13 @@
+.container {
+  width: 20%;
+  margin: auto;
+  text-align: center;
+}
+.color {
+  background-color: yellow;
+  padding: 5px;
+}
+.next {
+  width: 20%;
+  margin: auto;
+}
